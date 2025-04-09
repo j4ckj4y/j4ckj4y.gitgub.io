@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message for My Lalove</title>
+    <style>
+        body {
+            background-color: #FFB6C1;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            color: #333;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #ff69b4;
+        }
+        h2 {
+          font-size: 2em;
+            color: #ff69b4;
+        }
+        }
+        }
+        p {
+            font-size: 1.5em;
+            margin: 20px 0;
+        }
+        .heart {
+            color: red#42445A;
+            font-size: 2em;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 1em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>To My Beautiful Girlfriend </h1>
+    <h2>Happy 1Year & 3months or 15months to us laloves</h2>
+    <p>You light up my life in ways I never knew were possible, you always make my day special, i love spending my time with you po🤩.</p>
+    <p>Your smile is my favorite sight, and your laughter is my favorite sound, I miss your chikas with me na.</p>
+    <p class="heart">❤️</p>
+    <p>Thank you for loving and staying by my side, Im greatful to have you my laloves🥹. I love you more than words can say!</p>
+    <p>more months and years to come to us loves but not just a month and years also an decades but not just an decades but for our life till death🥺</p>
+    <footer>
+        <p>Forever yours,</p>
+        <p>Your laloves Jack Jay😝</p>
+    </footer>
+</body>
+</html>
